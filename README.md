@@ -40,4 +40,4 @@ http://www.logisticsworld.com/currency.asp - Find your currency code here.
 Credits
 ================
 
-This library origonally written by Paolo Carlo Pomi, and has not been updated since 2009.
+This library origonally written by Paolo Carlo Pomi, that was not been updated since 2009. I have removed a dependency that it had with "pclzip.lib.php" and used the native php 5 functionality for zip.
