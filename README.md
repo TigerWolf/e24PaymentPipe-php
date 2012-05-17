@@ -13,7 +13,7 @@ Example Usage
       $payment->setResponseURL("/application/success");
 
       $payment->setLanguage("ENG");
-      $payment->setCurrency("414");
+      $payment->setCurrency("840"); //USD
       $payment->setResourcePath('/e24payment/');
       $payment->setAlias("merchant-alias");
       $payment->setAction("1"); // 1 = Purchase
@@ -31,3 +31,8 @@ Requirements
 =================
 
 This requires php 5.3 in order to work.
+
+Userful Links
+================
+
+http://www.logisticsworld.com/currency.asp - Find your currency code here.
