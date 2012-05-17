@@ -35,7 +35,7 @@ Example Usage
 Requirements
 =================
 
-This requires php 5.3 in order to work.
+This requires php 5.2 in order to work. (Uses ZipArchive - also a PECL extension)
 
 Userful Links
 ================
