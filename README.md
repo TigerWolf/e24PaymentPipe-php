@@ -37,4 +37,7 @@ Userful Links
 
 http://www.logisticsworld.com/currency.asp - Find your currency code here.
 
+Credits
+================
+
 This library origonally written by Paolo Carlo Pomi, and has not been updated since 2009.
