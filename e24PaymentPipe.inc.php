@@ -104,7 +104,7 @@ class e24PaymentPipe {
   }
 
   function getWebAddress() {
-    return webAddress;
+    return $this->webAddress;
   }
 
   function setWebAddress($s) {
